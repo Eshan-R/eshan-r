@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋, I'm Eshan!
 
-<!--
-**Eshan-R/eshan-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Heyya, Eshan here — kinda introverted, but also not!  
+I’m a student and an aspiring cybersecurity engineer, passionate about technology, creativity, and lifelong learning.
 
-Here are some ideas to get you started:
+## 💻 Skills
+- Java
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Career Goal
+Currently honing my craft to step into the world of cybersecurity and make a difference!
+
+## 🌐 Find Me Online
+[LinkedIn](https://www.linkedin.com/in/eshan-rajshekhar-3760752b6)
+
+## 🧑‍🎨 Hobbies & Interests
+- 🎵 Music
+- 📚 Novels & Manga
+- 🎨 Drawing
+- 🈴 Learning Japanese
+
+## 🚀 Featured Projects
+*Stay tuned! Exciting projects coming soon.*
+
+---
+
+Thanks for stopping by! Feel free to connect or check out my work.
